@@ -1,2 +1,4 @@
 # Sales-Analysis-Project
-Developed a machine learning model to predict employee turnover using satisfaction metrics and employee data. The project involved data preprocessing, exploratory data analysis (EDA), handling class imbalance with SMOTE, k-fold cross-validation, and model evaluation to identify key factors influencing turnover and suggest retention strategies.
+A Python-based sales analysis project for an Australian clothing brand, focused on analyzing quarterly sales data to identify high and low revenue states.
+The project involved data wrangling, visualization, and generating insights for sales strategies using Pandas, NumPy, and Seaborn. 
+The results were presented through a dashboard with key metrics to guide investment decisions.
